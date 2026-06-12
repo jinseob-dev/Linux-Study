@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux-Study/Introduction To Linux.md",
+                "file": "Linux-Study/2. Getting Started With Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction To Linux"
+              "title": "2. Getting Started With Linux"
             }
           },
           {
@@ -204,9 +204,11 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "b49efb16068a30db",
+  "active": "0600b536ea430fa0",
   "lastOpenFiles": [
-    "Linux-Study/Introduction To Linux.md",
+    "Linux-Study/1. Introduction To Linux.md",
+    "Linux-Study/2. Getting Started With Linux.md",
+    "Getting Started With Linux.md",
     "환영합니다!.md",
     "create a link.md",
     "Linux-Study"
