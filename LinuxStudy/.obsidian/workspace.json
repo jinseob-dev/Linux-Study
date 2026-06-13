@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux-Study/2. Getting Started With Linux.md",
+                "file": "Linux-Study/3. Navigating the File System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Getting Started With Linux"
+              "title": "3. Navigating the File System"
             }
           },
           {
@@ -206,8 +206,8 @@
   },
   "active": "0600b536ea430fa0",
   "lastOpenFiles": [
-    "Linux-Study/3. Navigating the File System.md",
     "Linux-Study/2. Getting Started With Linux.md",
+    "Linux-Study/3. Navigating the File System.md",
     "Linux-Study/1. Introduction To Linux.md",
     "Getting Started With Linux.md",
     "환영합니다!.md",
