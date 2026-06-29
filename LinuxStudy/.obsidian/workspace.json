@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux-Study/5. Managing Files and Directories.md",
+                "file": "Linux-Study/6. Text Manipulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Managing Files and Directories"
+              "title": "6. Text Manipulation"
             }
           },
           {
@@ -206,8 +206,9 @@
   },
   "active": "0600b536ea430fa0",
   "lastOpenFiles": [
-    "Linux-Study/4. Basic Linux Commands.md",
     "Linux-Study/5. Managing Files and Directories.md",
+    "Linux-Study/6. Text Manipulation.md",
+    "Linux-Study/4. Basic Linux Commands.md",
     "Linux-Study/3. Navigating the File System.md",
     "Linux-Study/2. Getting Started With Linux.md",
     "Linux-Study/1. Introduction To Linux.md",
