@@ -20,16 +20,6 @@
               "icon": "lucide-file",
               "title": "9. Package Management"
             }
-          },
-          {
-            "id": "f7808f90b63a09f5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
           }
         ]
       }
